@@ -1,91 +1,78 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Pablo Gonzales's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Pablo Gonzales Carrasco
+Student, Freelancer Full-Stack Web Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="pablingonzales@gmail.com">pablingonzales@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Studying Ingenieria de Sistemas in Universidad Catolica Boliviana "San Pablo"
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Progressive Web Apps, Data Science, Neural Networks.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2002-2014`
+__Colegio La Salle, La Paz, Bolivia__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Julio 2017 - Diciembre 2017`
+__Pontificia Universidad Catolica de Chile__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`Febrero 2015 - Ahora`
+__Universidad Catolica Boliviana "San Pablo"__
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2014`
+Mejor Estudiante Graduado, *La Salle*, La Paz, Bolivia
 
-Associate, *French Academy of Science*, Paris, France
+`2015`
+Excelencia Academica 1-2015, *Universidad Catolica Boliviana*, La Paz, Bolivia
+`2015`
+Excelencia Academica 2-2015, *Universidad Catolica Boliviana*, La Paz, Bolivia
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2017`
+Beca Intercambio Bilaterial, *Pontificia Universidad Catolica de Chile*, Santiago, Chile
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Projects
 
-- Warden
-- Minted coins
+- *Altos Tonos*, Revista musical, <a href="www.altostonos.com">altostonos.com</a>
+- *Deportes 3600*, Blog de deportes, <a href="www.deportes3600.herokuapp.com">deportes3600</a>
+- *Spatify*, Music web app just for fun, <a href="https://grupo16-iic2143.herokuapp.com/">Spatify</a>
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Online Courses
+`Ruby On Rails`
+The Complete Ruby On Rails Developer Course, Rob Percival and Mashrur Hossain
+`Conectate`
+Conectate!, Cisco
 
+## Skills
+
+- Soccer
+- Theater Actor
+- Short Film Actor
+- Guitar
+- Piano
+- Leadership
+- United Nations Debates
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2018 -->
 
 
