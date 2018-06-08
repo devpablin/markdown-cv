@@ -25,10 +25,10 @@ Progressive Web Apps, Data Science, Neural Networks.
 `2002-2014`
 __Colegio La Salle, La Paz, Bolivia__
 
-`Julio 2017 - Diciembre 2017`
+`07/2017 - 12/2017`
 __Ingenieria Civil en Computacion, Pontificia Universidad Catolica de Chile__
 
-`Febrero 2015 - Ahora`
+`02/2015 - Now`
 __Ingenieria de Sistemas, Universidad Catolica Boliviana "San Pablo"__
 
 
