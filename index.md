@@ -40,6 +40,7 @@ Mejor Estudiante Graduado, *La Salle*, La Paz, Bolivia
 
 `2015`
 Excelencia Academica 1-2015, *Universidad Catolica Boliviana*, La Paz, Bolivia
+
 `2015`
 Excelencia Academica 2-2015, *Universidad Catolica Boliviana*, La Paz, Bolivia
 
@@ -57,6 +58,7 @@ Beca Intercambio Bilaterial, *Pontificia Universidad Catolica de Chile*, Santiag
 ## Online Courses
 `Ruby On Rails`
 The Complete Ruby On Rails Developer Course, Rob Percival and Mashrur Hossain
+
 `Conectate`
 Conectate!, Cisco
 
