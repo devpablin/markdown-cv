@@ -51,8 +51,8 @@ Bilateral Exchange Schollarship, *Pontificia Universidad Catolica de Chile*, San
 
 ## Projects
 
-- *Altos Tonos*, Music Magazzine, <a href="www.altostonos.com">altostonos.com</a>
-- *Deportes 3600*, Sport's Blog, <a href="www.deportes3600.herokuapp.com">deportes3600</a>
+- *Altos Tonos*, Music Magazzine, <a href="http://altostonos.com">altostonos.com</a>
+- *Deportes 3600*, Sport's Blog, <a href="http://deportes3600.herokuapp.com">deportes3600</a>
 - *Spatify*, Music web app just for fun, <a href="https://grupo16-iic2143.herokuapp.com/">Spatify</a>
 
 ## Online Courses
