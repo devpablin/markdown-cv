@@ -12,7 +12,7 @@ Student, Freelancer Full-Stack Web Developer.
 
 ## Currently
 
-Studying Ingenieria de Sistemas in Universidad Catolica Boliviana "San Pablo"
+Studying Computer Science in Universidad Catolica Boliviana "San Pablo"
 
 
 ### Research interests
@@ -29,7 +29,7 @@ __La Salle School, La Paz, Bolivia__
 __Computer Science, Pontificia Universidad Catolica de Chile__
 
 `02/2015 - Now`
-__Systems Engineering, Universidad Catolica Boliviana "San Pablo"__
+__Computer Science, Universidad Catolica Boliviana "San Pablo"__
 
 
 
