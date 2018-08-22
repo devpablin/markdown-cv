@@ -23,7 +23,7 @@ Progressive Web Apps, Data Science, Neural Networks.
 ## Education
 
 `2002-2014`
-__Colegio La Salle, La Paz, Bolivia__
+__La Salle School, La Paz, Bolivia__
 
 `07/2017 - 12/2017`
 __Ingenieria Civil en Computacion, Pontificia Universidad Catolica de Chile__
@@ -36,23 +36,23 @@ __Ingenieria de Sistemas, Universidad Catolica Boliviana "San Pablo"__
 ## Awards
 
 `2014`
-Mejor Estudiante Graduado, *La Salle*, La Paz, Bolivia
+Best Student, *La Salle*, La Paz, Bolivia
 
 `2015`
-Excelencia Academica 1-2015, *Universidad Catolica Boliviana*, La Paz, Bolivia
+Academic Excellence 1-2015, *Universidad Catolica Boliviana*, La Paz, Bolivia
 
 `2015`
-Excelencia Academica 2-2015, *Universidad Catolica Boliviana*, La Paz, Bolivia
+Academic Excellence 2-2015, *Universidad Catolica Boliviana*, La Paz, Bolivia
 
 `2017`
-Beca Intercambio Bilaterial, *Pontificia Universidad Catolica de Chile*, Santiago, Chile
+Bilateral Exchange Schollarship, *Pontificia Universidad Catolica de Chile*, Santiago, Chile
 
 
 
 ## Projects
 
-- *Altos Tonos*, Revista musical, <a href="www.altostonos.com">altostonos.com</a>
-- *Deportes 3600*, Blog de deportes, <a href="www.deportes3600.herokuapp.com">deportes3600</a>
+- *Altos Tonos*, Music magazzine, <a href="www.altostonos.com">altostonos.com</a>
+- *Deportes 3600*, Sport's Blog, <a href="www.deportes3600.herokuapp.com">deportes3600</a>
 - *Spatify*, Music web app just for fun, <a href="https://grupo16-iic2143.herokuapp.com/">Spatify</a>
 
 ## Online Courses
