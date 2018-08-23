@@ -3,7 +3,7 @@ layout: cv
 title: Pablo Gonzales's CV
 ---
 # Pablo Gonzales Carrasco
-Student, Freelancer Full-Stack Web Developer.
+Computer Science Student
 
 <div id="webaddress">
 <a href="pablingonzales@gmail.com">pablingonzales@gmail.com</a>
@@ -12,18 +12,18 @@ Student, Freelancer Full-Stack Web Developer.
 
 ## Currently
 
-Studying Computer Science in Universidad Catolica Boliviana "San Pablo"
+4th year student of Computer Science in Universidad Catolica Boliviana "San Pablo"
 
 
 ### Research interests
 
-Progressive Web Apps, Data Science, Neural Networks.
+IT management, Data Science, Software Engineering.
 
 
 ## Education
 
 `2002-2014`
-__La Salle School, La Paz, Bolivia__
+__Bachelor's degree, Colegio de La Salle, La Paz, Bolivia__
 
 `07/2017 - 12/2017`
 __Computer Science, Pontificia Universidad Catolica de Chile__
@@ -55,6 +55,12 @@ Bilateral Exchange Schollarship, *Pontificia Universidad Catolica de Chile*, San
 - *Deportes 3600*, Sport's Blog, <a href="http://deportes3600.herokuapp.com">deportes3600</a>
 - *Spatify*, Music web app just for fun, <a href="https://grupo16-iic2143.herokuapp.com/">Spatify</a>
 
+## Seminars and Courses
+
+Competitive Programming with Jakub Radoszewski
+
+Cloud Technologies, Google
+
 ## Online Courses
 `Ruby On Rails`
 The Complete Ruby On Rails Developer Course, Rob Percival and Mashrur Hossain
@@ -64,17 +70,34 @@ Conectate!, Cisco
 
 ## Skills
 
+- IT management
+- MySQL
+- Ruby on Rails
+- React
+- Business Intelligence
+- Java
+- C and C++
+- HTML, CSS
+
+## Volunteer Activities and Leadership
+
+- United Nations Debates MUN
+- Youth Ministry at La Salle school
+- Special Olympics volunteer
+- World Youth Day Brazil 2013
+- Exchange Student
+
+## Hobbies
+
 - Soccer
 - Theater Actor
 - Short Film Actor
 - Guitar
 - Piano
-- Leadership
-- United Nations Debates
 
 
 <!-- ### Footer
 
-Last updated: June 2018 -->
+Last updated: August 2018 -->
 
 
